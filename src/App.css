@@ -1,0 +1,23 @@
+.app {
+  display: grid;
+  place-items: center;
+  min-height: 100svh;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+.airfabricLogo {
+  display: block;
+  max-width: min(520px, 80vw);
+  max-height: min(220px, 30vh);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 640px) {
+  .airfabricLogo {
+    max-width: min(420px, 88vw);
+    max-height: min(180px, 28vh);
+  }
+}
