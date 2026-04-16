@@ -6,7 +6,7 @@
 }
 
 .container {
-  max-width: 1040px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -22,14 +22,14 @@
 .airfabricLogo {
   display: block;
   margin: 0;
-  width: min(520px, 82vw);
+  width: min(480px, 82vw);
   height: auto;
   object-fit: contain;
 }
 
 .title {
   margin: 0;
-  max-width: 26ch;
+  max-width: 32ch;
   font-family: var(--heading);
   font-weight: 620;
   font-size: clamp(28px, 3.4vw, 44px);
@@ -41,7 +41,7 @@
 
 .lede {
   margin: 0;
-  max-width: 72ch;
+  max-width: 82ch;
   color: var(--text);
   font-size: clamp(16px, 1.5vw, 18px);
   line-height: 1.6;
@@ -57,13 +57,12 @@
 
 .products {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 16px;
   margin-top: 22px;
 }
 
 .card {
-  grid-column: span 4;
   border: 1px solid rgb(var(--ink-rgb) / 0.08);
   border-radius: 18px;
   padding: 18px 18px 16px;
@@ -262,10 +261,6 @@
 }
 
 @media (max-width: 900px) {
-  .card {
-    grid-column: span 6;
-  }
-
   .contactInner {
     grid-template-columns: 1fr;
   }
@@ -286,7 +281,6 @@
   }
 
   .card {
-    grid-column: span 12;
     padding: 16px;
   }
 

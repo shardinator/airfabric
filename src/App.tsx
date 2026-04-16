@@ -32,7 +32,7 @@ function App() {
         
           <article className="card">
             <h2 className="cardTitle">AirNote</h2>
-            <p className="cardSubtitle">Note taking layer</p>
+            <p className="cardSubtitle">Transaction friendly digital currency layer</p>
             <p className="cardBody cardSoon">More information will be available soon</p>
           </article>
 
