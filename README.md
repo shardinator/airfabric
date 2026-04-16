@@ -1,1 +1,1 @@
-AirFabric is building the future of data and currency.
+AirFabric is building the future of data and currency
