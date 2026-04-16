@@ -29,21 +29,16 @@ function App() {
         </header>
 
         <section className="products" aria-label="AirFabric layers">
+        
+          <article className="card">
+            <h2 className="cardTitle">AirNote</h2>
+            <p className="cardSubtitle">Note taking layer</p>
+            <p className="cardBody cardSoon">More information will be available soon</p>
+          </article>
+
           <article className="card">
             <h2 className="cardTitle">AirStore</h2>
             <p className="cardSubtitle">Data storage layer</p>
-            <p className="cardBody cardSoon">More information will be available soon</p>
-          </article>
-
-          <article className="card">
-            <h2 className="cardTitle">AirSend</h2>
-            <p className="cardSubtitle">Financial transaction layer</p>
-            <p className="cardBody cardSoon">More information will be available soon</p>
-          </article>
-
-          <article className="card">
-            <h2 className="cardTitle">AirNote</h2>
-            <p className="cardSubtitle">Digital currency layer</p>
             <p className="cardBody cardSoon">More information will be available soon</p>
           </article>
         </section>
