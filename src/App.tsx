@@ -12,7 +12,7 @@ function App() {
           />
 
           <h1 className="title">
-            Charting the future for data and currency
+            Charting the future of data and currency
           </h1>
 
           <div className="lede">
