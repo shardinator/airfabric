@@ -1,1 +1,1 @@
-AirFabric is building plumbing for the future of data and currency. These are its webpages.
+AirFabric is building the future of data and currency.
