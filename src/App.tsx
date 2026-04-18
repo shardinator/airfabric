@@ -5,11 +5,7 @@ function App() {
     <main className="page" aria-label="AirFabric home">
       <div className="container">
         <header className="hero">
-          <img
-            className="airfabricLogo"
-            src="/images/AirFabric_logo.png"
-            alt="AirFabric"
-          />
+          <img className="airfabricLogo" src="/images/AirFabric_logo.png" alt="AirFabric"/>
 
           <h1 className="title">
             Charting the future of data and currency
@@ -20,7 +16,7 @@ function App() {
             AirFabric is a non profit organisation, designing infrastructure for the future of data and currency.
             </p>
             <p>
-            AirFabric projects AirStore and AirNote, can be thought of as plumbing rather than a specific product. 
+            AirFabric projects, AirStore and AirNote, can be thought of as plumbing on which specific products can be built. 
             </p>
           </div>
         </header>
@@ -48,11 +44,7 @@ function App() {
               </p>
             </div>
 
-            <form
-              className="form"
-              action="https://formcarry.com/s/btVIUJJtKCu"
-              method="POST"
-            >
+            <form className="form" action="https://formcarry.com/s/btVIUJJtKCu" method="POST">
               <label className="field">
 
                 <input type="hidden" name="whereFrom" value="AirFabric" />
