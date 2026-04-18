@@ -17,30 +17,26 @@ function App() {
 
           <div className="lede">
             <p>
-              Built on ideas coming from the blockchain world, AirFabric
-              reimagines what it means to store data, make a financial
-              transaction and trade with a currency.
+            AirFabric is a non profit organisation, designing infrastructure for the future of data and currency.
             </p>
             <p>
-              AirFabric is created with the philosophy that data and economics
-              should be reliable and control should be with the end user.
+            AirFabric projects AirStore and AirNote, can be thought of as plumbing rather than a specific product. 
             </p>
           </div>
         </header>
 
         <section className="products" aria-label="AirFabric layers">
-        
-          <article className="card">
-            <h2 className="cardTitle">AirNote</h2>
-            <p className="cardSubtitle">Transaction friendly digital currency layer</p>
-            <p className="cardBody cardSoon">More information will be available soon</p>
-          </article>
-
+                  
           <article className="card">
             <h2 className="cardTitle">AirStore</h2>
-            <p className="cardSubtitle">Data storage layer</p>
-            <p className="cardBody cardSoon">More information will be available soon</p>
+            <p className="cardSubtitle">AirStore is a data platform for creating an immutable record for actions. This is especially useful for finance and robotics.</p>            
           </article>
+
+          <article className="card">            
+            <h2 className="cardTitle">AirNote</h2>
+            <p className="cardSubtitle">AirNote is a currency platform that uses the AirStore data platform to enable digital currencies to be created and used effectively.</p>            
+          </article>
+
         </section>
 
         <section className="contact" aria-label="Contact AirFabric">
