@@ -26,13 +26,33 @@ function App() {
           <article className="card">
             <h2 className="cardTitle">AirStore</h2>
             <p className="cardSubtitle">AirStore is a data platform for creating an immutable record for actions. 
-              This is especially useful for financial transactions and creating a history of actions by robots of the future.</p>            
+              This is especially useful for financial transactions and creating a history of actions by robots of the future.</p>
+            <p>
+              For more information please download our{' '}
+              <a
+                className="footerLink"
+                href="/documents/AirStore%2C%20Early%20Access%20Paper.pdf"
+                download="AirStore, Early Access Paper.pdf"
+              >
+                Early Access Paper
+              </a>
+            </p>
           </article>
 
           <article className="card">            
             <h2 className="cardTitle">AirNote</h2>
             <p className="cardSubtitle">AirNote is a high speed, low cost transaction friendly currency platform.
-               It uses the AirStore data platform to enable digital currencies that can be used in the real world.</p>            
+               It uses the AirStore data platform to enable digital currencies that can be used in the real world.</p>
+               <p>
+              For more information please download our{' '}
+              <a
+                className="footerLink"
+                href="/documents/AirNote%2C%20Early%20Access%20Paper.pdf"
+                download="AirNote, Early Access Paper.pdf"
+              >
+                Early Access Paper
+              </a>
+            </p>               
           </article>
 
         </section>

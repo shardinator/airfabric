@@ -245,18 +245,18 @@
 }
 
 .footerLink {
-  color: inherit;
+  color: #9333ea;
   text-decoration: none;
   transition:
     color 140ms ease;
 }
 
 .footerLink:hover {
-  color: rgb(var(--accent-rgb) / 0.92);
+  color: #7e22ce;
 }
 
 .footerLink:focus-visible {
-  outline: 3px solid rgb(var(--accent-rgb) / 0.22);
+  outline: 3px solid rgb(147 51 234 / 0.28);
   outline-offset: 3px;
   border-radius: 6px;
 }
