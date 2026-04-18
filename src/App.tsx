@@ -44,7 +44,7 @@ function App() {
             <div className="contactCopy">
               <h2 className="sectionTitle">Contact</h2>
               <p className="sectionBody">
-                Reach out with questions, ideas, or partnership inquiries.
+                Reach out with questions, ideas or partnership inquiries.
               </p>
             </div>
 
