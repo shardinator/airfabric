@@ -31,7 +31,7 @@ function App() {
 
           <article className="card">            
             <h2 className="cardTitle">AirNote</h2>
-            <p className="cardSubtitle">AirNote is a high speed, low cost transaction friendly currencyplatform.
+            <p className="cardSubtitle">AirNote is a high speed, low cost transaction friendly currency platform.
                It uses the AirStore data platform to enable digital currencies that can be used in the real world.</p>            
           </article>
 
