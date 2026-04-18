@@ -16,7 +16,7 @@ function App() {
             AirFabric is a non profit organisation, designing infrastructure for the future of data and currency.
             </p>
             <p>
-            AirFabric projects, AirStore and AirNote, can be thought of as plumbing on which specific products can be built. 
+            AirFabric's free and open source projects, AirStore and AirNote, can be thought of as plumbing on which specific products can be built. 
             </p>
           </div>
         </header>
