@@ -26,7 +26,7 @@ function App() {
           <article className="card">
             <h2 className="cardTitle">AirStore</h2>
             <p className="cardSubtitle">AirStore is a data platform for creating an immutable record for actions. 
-              This is especially useful for finance and robotics.</p>            
+              This is especially useful for financial transactions and creating a history of actions by robots of the future.</p>            
           </article>
 
           <article className="card">            
