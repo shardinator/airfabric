@@ -35,7 +35,7 @@ function App() {
                 download="AirStore, Early Access Paper.pdf"
               >
                 Early Access Paper
-              </a>
+              </a>.
             </p>
           </article>
 
@@ -51,7 +51,7 @@ function App() {
                 download="AirNote, Early Access Paper.pdf"
               >
                 Early Access Paper
-              </a>
+              </a>.
             </p>               
           </article>
 
