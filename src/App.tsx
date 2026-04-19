@@ -13,10 +13,10 @@ function App() {
 
           <div className="lede">
             <p>
-            AirFabric is a non profit organisation, designing infrastructure for the future of data and currency.
+            AirFabric is a free & open source project, developing infrastructure for the future of data and currency.
             </p>
             <p>
-            AirFabric's free and open source projects, AirStore and AirNote, can be thought of as plumbing on which specific products can be built. 
+            AirFabric's subprojects, AirStore and AirNote, can be thought of as plumbing on which new products can be built. 
             </p>
           </div>
         </header>
